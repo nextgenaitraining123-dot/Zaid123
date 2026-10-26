@@ -1,0 +1,25 @@
+.jack{
+color:wite;
+background-color:rgb(4, 0, 255);
+font-size:30px;
+font-style:italic;
+font-family:verdana;
+font-weight:bold;
+font-variant:small-caps;
+
+
+margin:left 10px;
+padding: 10px;
+height: 25px;
+
+border:color-mix(in hsl shorter hue, color percentage, color percentage) 25px 
+
+}
+
+
+
+.para{
+    color:blue;
+    font-size: 20px;
+    text-align: center;
+}
